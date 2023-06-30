@@ -1,4 +1,4 @@
-//prime checker
+# prime checker
 //3 steps
 //step 1: find square root and take ceiling of it
 //step 2: divide the number by number greater than 2 to sq root of it
